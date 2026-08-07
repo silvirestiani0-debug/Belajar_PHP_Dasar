@@ -7,6 +7,6 @@ $orang = [
 ];
 
 // Mengakses elemen array multidimensi
-echo $orang[0]["Nama"] . " berumur " . $orang[0]["Umur"] . " tahun.<br>"; // Output: agus berumur 25 tahun.
-echo $orang[1]["Nama"] . " berumur " . $orang[1]["Umur"] . " tahun.<br>"; // Output: budi berumur 30 tahun.
+echo $orang[0]["Nama"] . " berumur " . $orang[0]["Umur"] . " tahun.<br>"; // Output: lala berumur 25 tahun.
+echo $orang[1]["Nama"] . " berumur " . $orang[1]["Umur"] . " tahun.<br>"; // Output: lili berumur 30 tahun.
 ?>
