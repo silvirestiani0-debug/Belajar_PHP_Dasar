@@ -3,8 +3,8 @@
 $orang = [
     ["Nama" => "lala", "Umur" => 25],
     ["Nama" => "lili", "Umur" => 30],
-    ["Nama" => "lulu", "Umur" => 35]
-];
+    ["Nama" => "lulu", "Umur" => 35],
+
 
 // Mengakses elemen array multidimensi
 echo $orang[0]["Nama"] . " berumur " . $orang[0]["Umur"] . " tahun.<br>"; // Output: lala berumur 25 tahun.
